@@ -1,2 +1,2 @@
 # Hidden-Vault-Windows-application-
-It’s a new innovative idea to hide your files. 
+It’s a new innovative idea to hide your files. When Application lockers are implemented it gives a scope for the black hat to know that there is data hidden and he can easily break the security walls. The main principle is that using appropriate deviations, dodge unauthorized user by using already existing apps to hide files. Developed using c# in visual studio 2013.
