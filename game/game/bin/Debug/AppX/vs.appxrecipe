@@ -1,0 +1,86 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>NARAHARASETTI</Machine>
+    <WindowsUser>Naraharasetti Uday</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>5c514e48-be31-41e4-b43c-ca77d30f7813</PackageIdentityName>
+    <IntermediateOutputPath>c:\users\naraharasetti uday\documents\visual studio 2013\Projects\game\game\obj\Debug\</IntermediateOutputPath>
+    <RegisteredManifestChecksum>9D714B258F12F5DE3642D615B2DBCBD044737B8A4FDEA2551052D5AE1996A56E</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>5c514e48-be31-41e4-b43c-ca77d30f7813_1.0.0.0_neutral__hghvz8n6sdk40</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>5c514e48-be31-41e4-b43c-ca77d30f7813_hghvz8n6sdk40!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>5c514e48-be31-41e4-b43c-ca77d30f7813</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=Naraharasetti Uday</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="c:\users\naraharasetti uday\documents\visual studio 2013\Projects\game\game\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-09-29T20:38:49.692</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="c:\users\naraharasetti uday\documents\visual studio 2013\Projects\game\game\bin\Debug\game.exe">
+      <PackagePath>game.exe</PackagePath>
+      <Modified>2015-09-29T20:39:52.016</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\naraharasetti uday\documents\visual studio 2013\Projects\game\game\Assets\about.png">
+      <PackagePath>Assets\about.png</PackagePath>
+      <Modified>2015-09-29T20:31:37.473</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\naraharasetti uday\documents\visual studio 2013\Projects\game\game\Assets\back.png">
+      <PackagePath>Assets\back.png</PackagePath>
+      <Modified>2015-09-29T20:31:37.717</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\naraharasetti uday\documents\visual studio 2013\Projects\game\game\Assets\fb.png">
+      <PackagePath>Assets\fb.png</PackagePath>
+      <Modified>2015-09-29T20:31:37.739</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\naraharasetti uday\documents\visual studio 2013\Projects\game\game\Assets\game.png">
+      <PackagePath>Assets\game.png</PackagePath>
+      <Modified>2015-09-29T20:37:49.688</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\naraharasetti uday\documents\visual studio 2013\Projects\game\game\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-23T00:31:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\naraharasetti uday\documents\visual studio 2013\Projects\game\game\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-23T00:31:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\naraharasetti uday\documents\visual studio 2013\Projects\game\game\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-09-29T20:30:37.605</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\naraharasetti uday\documents\visual studio 2013\Projects\game\game\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-23T00:31:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\naraharasetti uday\documents\visual studio 2013\Projects\game\game\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2015-09-29T20:35:11.005</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\naraharasetti uday\documents\visual studio 2013\Projects\game\game\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+      <Modified>2015-09-29T20:39:50.167</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\naraharasetti uday\documents\visual studio 2013\Projects\game\game\bin\Debug\game.xr.xml">
+      <PackagePath>game.xr.xml</PackagePath>
+      <Modified>2015-09-29T20:35:10.962</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\naraharasetti uday\documents\visual studio 2013\Projects\game\game\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2015-09-29T20:38:49.436</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

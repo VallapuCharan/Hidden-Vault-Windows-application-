@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>NARAHARASETTI</Machine>
+    <WindowsUser>Naraharasetti Uday</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>5c514e48-be31-41e4-b43c-ca77d30f7813</PackageIdentityName>
+    <IntermediateOutputPath>c:\users\naraharasetti uday\documents\visual studio 2013\Projects\game\game\obj\Debug\</IntermediateOutputPath>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="c:\users\naraharasetti uday\documents\visual studio 2013\Projects\game\game\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="c:\users\naraharasetti uday\documents\visual studio 2013\Projects\game\game\bin\Debug\game.exe">
+      <PackagePath>game.exe</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\naraharasetti uday\documents\visual studio 2013\Projects\game\game\Assets\about.png">
+      <PackagePath>Assets\about.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\naraharasetti uday\documents\visual studio 2013\Projects\game\game\Assets\back.png">
+      <PackagePath>Assets\back.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\naraharasetti uday\documents\visual studio 2013\Projects\game\game\Assets\fb.png">
+      <PackagePath>Assets\fb.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\naraharasetti uday\documents\visual studio 2013\Projects\game\game\Assets\game.png">
+      <PackagePath>Assets\game.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\naraharasetti uday\documents\visual studio 2013\Projects\game\game\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\naraharasetti uday\documents\visual studio 2013\Projects\game\game\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\naraharasetti uday\documents\visual studio 2013\Projects\game\game\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\naraharasetti uday\documents\visual studio 2013\Projects\game\game\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\naraharasetti uday\documents\visual studio 2013\Projects\game\game\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\naraharasetti uday\documents\visual studio 2013\Projects\game\game\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\naraharasetti uday\documents\visual studio 2013\Projects\game\game\bin\Debug\game.xr.xml">
+      <PackagePath>game.xr.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\naraharasetti uday\documents\visual studio 2013\Projects\game\game\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>
